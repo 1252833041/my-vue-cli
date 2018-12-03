@@ -1,0 +1,2 @@
+/*! hey,ppg */
+webpackJsonp([1],{NHnr:function(e,n,t){"use strict";function p(e){u||t("t10s")}Object.defineProperty(n,"__esModule",{value:!0});var r=t("I3G/"),s=t.n(r),a={name:"app"},i=function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",[e._v("\n    HAPPY~123\n")])},c=[];i._withStripped=!0;var o={render:i,staticRenderFns:c},l=o,u=!1,v=t("VU/8"),_=p,f=v(a,l,!1,_,null,null);f.options.__file="src/App.vue";var d=f.exports;new s.a({el:"#app",template:"<App/>",components:{App:d}})},t10s:function(e,n){}},["NHnr"]);

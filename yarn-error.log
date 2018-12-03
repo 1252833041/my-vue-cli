@@ -1,0 +1,42 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn add -D webpack-cli
+
+PATH: 
+  /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  1.7.0
+
+Node version: 
+  10.4.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: EACCES: permission denied, mkdir '/Users/zhuweidong/myproject/react/my-vue-cli/node_modules/abbrev'
+
+npm manifest: 
+  {
+    "name": "my-vue-cli",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "dev":"webpack-dev-server --config build/webpack.dev.conf.js",
+      "dev":"webpack-dev-server --config build/webpack.dev.conf.js"
+      
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "webpack": "^4.26.1",
+      "webpack-dev-server": "^3.1.10"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
