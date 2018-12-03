@@ -1,7 +1,7 @@
-"use strict";
 /*
 create by ppg -.-
 */
+"use strict";
 const path = require("path");//引入node path路径模块
 const webpack =  require("webpack");//引入webpack
 const devConfig = require("../config").dev;///引入webpack开发环境配置参数
